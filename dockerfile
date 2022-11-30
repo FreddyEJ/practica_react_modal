@@ -12,4 +12,4 @@ run npm run build
 
 expose 3000
 
-cmd ["npm", ["start"]]
+cmd ["npm"], ["start"]
